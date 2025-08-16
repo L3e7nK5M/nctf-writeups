@@ -12,4 +12,4 @@
 | 3. Press **F12** to open DevTools.<br>Paste the code into the console and run it. | <img width="600" height="183" alt="image" src="https://github.com/user-attachments/assets/0fa0ec05-d93c-4c8e-b81f-4c52da11a0d7" /> |
 | 4. The code will show an alert. | <img width="600" height="126" alt="image" src="https://github.com/user-attachments/assets/e6d3475a-0185-4799-b33e-b4dcf5736973" /> |
 | 5. Take the Base64 string and decode it (bash) |```echo "TlRDRntGQEtFX2hhUmRfdG9fUmVhZF9qQXY0NWNSSXB0fQo=" \| base64 -d<br>```
-| 🎉 Congratulations! You got the FLAG. | |
+| 🎉 Congratulations! You got the FLAG.  |
