@@ -4,3 +4,6 @@
 - **Solution**: Command injection via browser using Shellshock. Then read the flag.
 
 ---
+| Step | Screenshot |
+|------|------------|
+|1. Open the challenge page in your browser.|
