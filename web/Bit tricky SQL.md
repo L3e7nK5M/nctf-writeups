@@ -21,9 +21,3 @@
 | 12. Crack the passwords using john (or hashcat).<br>Before cracking, prepare the file so that it only contains the needed username & hash pair.<br>For example:<br>`awk 'NR>1{print $1":"$2}' hash.txt > newhash.txt`<br><br>Then run the cracking tool john,hashcat etc..:<br>```john --format=raw-256 --wordlist=./rockyou.txt newhash.txt``` or ```hashcat -m 1400 -a 0 newhash.txt rockyou.txt```|<img width="600" height="245" alt="image" src="https://github.com/user-attachments/assets/d91766e4-1885-4e71-9e3f-542cd8d4ffd9" /><img width="600" height="351" alt="image" src="https://github.com/user-attachments/assets/9d9d9b35-7758-4098-a3bc-6c54ba4c2db4" />|
 | 13. Login as administrator.<br>🎉 Congratulations! You got the flag. | <img width="384" height="302" alt="image" src="https://github.com/user-attachments/assets/13622d75-9323-4efa-ad2e-7061ab205720" /> |
 
-
-
-
-
-
-
