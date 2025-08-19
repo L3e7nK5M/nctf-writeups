@@ -1,1 +1,6 @@
+# Shellshock CTF Challenge
 
+- **Category**: Web  
+- **Solution**: Command injection via browser using Shellshock. Then read the flag.
+
+---
