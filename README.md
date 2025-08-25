@@ -23,7 +23,9 @@ It is organized by category and intended for educational purposes only.
 - Strings  
 - Autopsy  
 - FTK Imager  
-- Wireshark  
+- Wireshark
+- Hexedit
+- gdb
 
 ## ⚠️ Precautions
 These writeups are published **for education and learning purposes only**.  
