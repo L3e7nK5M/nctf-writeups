@@ -1,4 +1,4 @@
-# Caesar==
+# Ceaser==
 
 - **Category**: Crypto  
 - **Solution**: Solve the cipher using CyberChef
