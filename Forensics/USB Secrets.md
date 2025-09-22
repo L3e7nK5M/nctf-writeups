@@ -1,4 +1,4 @@
-# JPEG++.zip
+# USB Secrets
 
 - **Category**: Forensics  
 - **Solution**: mount usb.img your strage and read the flag.
