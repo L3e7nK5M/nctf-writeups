@@ -1,0 +1,3 @@
+NCTF{8aSH_EnV_inJEcT!on}
+
+(ﾟдﾟ)！There is another flag in a file named 'rootflag'. You need root permission to read it.
