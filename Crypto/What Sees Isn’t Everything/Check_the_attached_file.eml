@@ -1,0 +1,31 @@
+From: malia@evil.com
+To: victor@nctf.lab
+Subject: Check the attached file
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="boundary00001142"
+
+--boundary00001142
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Mr. Victor,</p>
+    <p>I have included the f1ag in the attached file.
+    <span style='color: white'>Password: HunterHunter</span></p>
+    <p>Please check it at your convenience.</p>
+  </body>
+</html>
+
+--boundary00001142
+Content-Type: application/zip
+Content-Disposition: attachment; filename="f1ag.zip"
+Content-Transfer-Encoding: base64
+
+UEsDBBQACQAIAON441on9PzeTQAAAGQAAAAIABwAZjFhZy50eHRVVAkAA9rUZmgekmlodXgLAAEE
+6AMAAAToAwAAGWxcyatUG451uccebohg9Ie9I2vKsYz75IXX0/RBxvwAgqkQL8xgLQh+sD1pSyc4
+a9ZiC2jNsiganH8NB5hykHv8pfXkII5nPR1eF3hQSwcIJ/T83k0AAABkAAAAUEsBAh4DFAAJAAgA
+43jjWif0/N5NAAAAZAAAAAgAGAAAAAAAAQAAAPiBAAAAAGYxYWcudHh0VVQFAAPa1GZodXgLAAEE
+6AMAAAToAwAAUEsFBgAAAAABAAEATgAAAJ8AAAAAAA==
+
+--boundary00001142--
+
